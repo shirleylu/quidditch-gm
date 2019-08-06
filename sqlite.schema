@@ -1,0 +1,16 @@
+CREATE TABLE players(
+	id integer primary key autoincrement,
+	name text,
+	gender text,
+	beater integer,
+	chaser integer,
+	keeper integer,
+	seeker integer,
+	rank real);
+
+CREATE TABLE ranks(
+	id integer primary key autoincrement,
+	playerid integer,
+	rank real,
+	confidence real,
+	weightedRank real);
