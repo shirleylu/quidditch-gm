@@ -95,7 +95,7 @@ def parse_input(files):
                     continue
                 name = row[header.index(FIRST_NAME)] + row[header.index(LAST_NAME)]
                 name.strip()
-                gender = row[header.index(GENDER)]
+                gender = row[header.index(GENDER)].lower()
 
                 ranking = row[header.index(RANKING)]
                 confidence = row[header.index(CONFIDENCE)]
@@ -168,6 +168,34 @@ def format_player(result):
     return "%s, %s, %d, %s, %s\n" % (name, gender, rank, primary, secondary)
 
 
+def calculate_stats(f):
+    get_stat_for_pos(f, "beater")
+    get_stat_for_pos(f, "chaser")
+    get_stat_for_pos(f, "keeper")
+    get_stat_for_pos(f, "seeker")
+
+
+def get_stat_for_pos(file, pos):
+    cursor.execute(
+        "select gender, %s, count(*), sum(rank), avg(rank), min(rank), max(rank) from players where %s > 0 group by gender, %s order by %s asc"
+        % (pos, pos, pos, pos))
+    results = cursor.fetchall()
+    primaries = list(filter(lambda x: x[1] == 1, results))
+    primary_count = float(sum(map(lambda x: x[2], primaries)))
+    primary_average = sum(map(lambda x: x[3], primaries))/primary_count
+    file.write("%d primary %ss, average %.3f\n" % (primary_count, pos, primary_average))
+    for result in primaries:
+        file.write("  %d %s, %.3f - %.3f - %.3f\n" % (result[2], result[0], float(result[5]), result[3]/result[2], float(result[6])))
+
+    secondaries = list(filter(lambda x: x[1] == 2, results))
+    secondary_count = float(sum(map(lambda x: x[2], secondaries)))
+    secondary_average = sum(map(lambda x: x[3], secondaries)) / secondary_count
+    file.write("%d secondary %ss, average %.3f\n" % (secondary_count, pos, secondary_average))
+    for result in secondaries:
+        file.write("  %d %s, %.3f - %.3f - %.3f\n" % (result[2], result[0], float(result[5]), result[3]/result[2], float(result[6])))
+    file.write("\n")
+
+
 if __name__ == "__main__":
     cursor.execute("delete from players")
     cursor.execute("delete from ranks")
@@ -177,6 +205,8 @@ if __name__ == "__main__":
     f = open("output.csv", "w+")
     get_sorted_ranks(f)
     f.close()
+    f = open("stats.txt", "w+")
+    calculate_stats(f)
+    f.close()
     conn.commit()
     conn.close()
-# sortAndRank()
