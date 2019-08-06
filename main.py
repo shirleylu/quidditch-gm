@@ -165,7 +165,7 @@ def format_player(result):
     if 2 in positions:
         secondary = types[positions.index(2)]
 
-    return "%s, %s, %d, %s, %s\n" % (name, gender, rank, primary, secondary)
+    return "%s, %s, %.3f, %s, %s\n" % (name, gender, rank, primary, secondary)
 
 
 def calculate_stats(f):
