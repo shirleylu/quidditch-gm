@@ -114,9 +114,8 @@ def parse_input(files):
                 secondaryp = row[header.index(SECONDARY_POSITION)].lower().split(",")
 
                 Player(name, gender, playing, team, primaryp, secondaryp)
-
                 ranks = row[header.index(SECONDARY_POSITION) + 1:]
-                # print(name)
+                print(name)
                 for i in range(3):
                     ranking = ranks[i*2]
                     confidence = ranks[i*2 + 1]
@@ -424,6 +423,11 @@ class Prompt(Cmd):
         cursor.execute("delete from ranks")
         parse_input(CSV_PATHS)
         calculate_ranks()
+        track("grant rose", "grant")
+        track("hannah moroz", "ali")
+        track("dylan bryant", "dylan")
+        track("jeremy hoffman", "jeremy")
+        track("miguel villa", "miguel")
         conn.commit()
 
     def do_output(self, args):
