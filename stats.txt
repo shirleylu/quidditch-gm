@@ -1,31 +1,32 @@
-17 primary beaters, average 3.294
-  4 female, 1.000 - 3.000 - 9.000
-  9 male, 1.000 - 3.444 - 10.000
-  4 nonbinary, 1.000 - 3.250 - 5.000
-8 secondary beaters, average 2.875
-  6 female, 1.000 - 2.667 - 5.000
-  2 male, 2.000 - 3.500 - 5.000
+29 primary beaters, average 9.034
+  10 female, 6.000 - 8.400 - 13.000, 2.633, 2 elites
+  16 male, 5.000 - 10.125 - 14.000, 2.655, 3 elites
+  3 non-binary, 0.000 - 5.333 - 11.000, 5.508, 1 elites
+22 secondary beaters, average 9.091
+  8 female, 0.000 - 8.625 - 12.000, 4.173
+  12 male, 6.000 - 9.417 - 12.000, 1.881
+  2 non-binary, 7.000 - 9.000 - 11.000, 2.828
 
-35 primary chasers, average 2.714
-  22 female, 1.000 - 2.591 - 6.000
-  11 male, 1.000 - 2.818 - 5.000
-  2 nonbinary, 2.000 - 3.500 - 5.000
-18 secondary chasers, average 3.389
-  5 female, 1.000 - 2.800 - 9.000
-  9 male, 1.000 - 3.778 - 10.000
-  4 nonbinary, 1.000 - 3.250 - 5.000
+38 primary chasers, average 8.947
+  18 female, 0.000 - 8.500 - 12.000, 3.682, 0 elites
+  16 male, 6.000 - 9.750 - 12.000, 1.880, 5 elites
+  4 non-binary, 3.000 - 7.750 - 11.000, 3.594, 0 elites
+27 secondary chasers, average 8.852
+  6 female, 6.000 - 7.167 - 10.000, 1.472
+  18 male, 5.000 - 9.667 - 13.000, 2.376
+  3 non-binary, 5.000 - 7.333 - 11.000, 3.215
 
-8 primary keepers, average 2.125
-  2 female, 1.000 - 1.500 - 2.000
-  6 male, 1.000 - 2.333 - 7.000
-6 secondary keepers, average 3.667
-  2 female, 2.000 - 4.000 - 6.000
-  4 male, 2.000 - 3.500 - 5.000
+10 primary keepers, average 9.700
+  9 male, 7.000 - 10.111 - 13.000, 1.965, 1 elites
+  1 non-binary, 6.000 - 6.000 - 6.000, -1.000
+4 secondary keepers, average 10.500
+  3 male, 10.000 - 10.667 - 12.000, 1.155
+  1 non-binary, 10.000 - 10.000 - 10.000, -1.000
 
-1 primary seekers, average 5.000
-  1 nonbinary, 5.000 - 5.000 - 5.000
-19 secondary seekers, average 1.842
-  10 female, 1.000 - 2.000 - 3.000
-  8 male, 1.000 - 1.625 - 3.000
-  1 nonbinary, 2.000 - 2.000 - 2.000
+2 primary seekers, average 9.500
+  2 male, 9.000 - 9.500 - 10.000, 0.707, 0 elites
+13 secondary seekers, average 8.077
+  5 female, 3.000 - 7.400 - 12.000, 3.578
+  6 male, 8.000 - 10.833 - 14.000, 2.317
+  2 non-binary, 0.000 - 1.500 - 3.000, 2.121
 

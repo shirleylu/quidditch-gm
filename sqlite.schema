@@ -2,11 +2,14 @@ CREATE TABLE players(
 	id integer primary key autoincrement,
 	name text,
 	gender text,
+	length real,
+	team text,
 	beater integer,
 	chaser integer,
 	keeper integer,
 	seeker integer,
-	rank real);
+	rank real,
+	drafted text);
 
 CREATE TABLE ranks(
 	id integer primary key autoincrement,

@@ -1,125 +1,158 @@
-name, gender, rank, primary, secondary
+name, gender, rank, primary, secondary, years, team
 Beaters
 primary
-AnthonyTabacchi, male, 10.000, beater, chaser
-HannahSchriber, female, 9.000, beater, chaser
-JulieVelasquez, nonbinary, 5.000, beater, none
-HeidiMills, nonbinary, 5.000, beater, chaser
-AlexLamoureux, male, 4.000, beater, keeper
-AdamGulyas, male, 4.000, beater, chaser
-DavidChapman, male, 4.000, beater, chaser
-RyanSmythe, male, 3.000, beater, chaser
-DevinDutt, male, 2.000, beater, chaser
-SamMills, nonbinary, 2.000, beater, chaser
-TaylorAttrill, male, 2.000, beater, chaser
-NathanUnrau, male, 1.000, beater, chaser
-JennyJohnson, female, 1.000, beater, seeker
-NathanRoss, nonbinary, 1.000, beater, chaser
-CaitWoolner, female, 1.000, beater, chaser
-ColinCrowe, male, 1.000, beater, none
-CayleyMendoza, female, 1.000, beater, chaser
+kobe kendall, male, 14.000, beater, seeker, 2.0, Anteater Quidditch
+duc tran, male, 13.000, beater, seeker, 4.0, Long Lost Beach Boys
+ryan mcgonagle, male, 13.000, beater, chaser, 5.0, Diablos
+vicky sanford, female, 13.000, beater, none, 5.0, Diablos
+hugo quiroz, male, 12.000, beater, none, 4.0, None
+duran allison, male, 12.000, beater, none, 6.0, Bay Area Breakers
+simón arends, male, 12.000, beater, chaser, 7.0, Texas
+elsa lem, female, 12.000, beater, none, 5.0, Bay Area Breakers
+willis miles, male, 11.000, beater, chaser, 7.0, bay area breakers
+ricardo missael elizondo olivo, male, 11.000, beater, chaser, 2.0, Breakers
+ricardo arreola, male, 11.000, beater, chaser, 4.0, No one
+jeremy hoffman, non-binary, 11.000, beater, chaser, 5.0, Boom Train
+amani burton, male, 10.000, beater, keeper, 4.0, Diablos
+erin moreno, female, 10.000, beater, chaser, 7.0, ¯\_(ツ)_/¯
+kasandra rascon, female, 10.000, beater, none, 4.0, Diablos
+luis martinez, male, 9.000, beater, chaser, 4.0, None
+timothy connor, male, 8.000, beater, none, 3.0, AQForever
+mikey saugstad, male, 7.000, beater, chaser, 6.0, Funky Quaffles
+matthew suey, male, 7.000, beater, chaser, 4.0, Lbfq
+daniel belton, male, 7.000, beater, chaser, 1.0, Anteater Quidditch
+dani clarke, female, 7.000, beater, chaser, 4.0, Diablos QC
+lorena medrano osorio, female, 7.000, beater, chaser, 4.0, Bay Area Breakers
+michelle coen, female, 7.000, beater, chaser, 3.0, ASU
+tessa mullins, female, 6.000, beater, chaser, 1.0, Emerson College Quidditch
+ema shiroma-chao, female, 6.000, beater, chaser, 10.0, Université de Montréal / Team Canada / mercenary
+kristen williams, female, 6.000, beater, seeker, 2.0, LBFQ
+michael dittmer, male, 5.000, beater, chaser, 2.0, CA Dobby
+alberto santillán, non-binary, 5.000, beater, chaser, 8.0, Qwertyrians Tijuana
+silver chacón, non-binary, 0.000, beater, seeker, 3.0, Tijuana Qwertyrians
 secondary
-TravisWoodward, male, 5.000, chaser, beater
-ErinCarter, female, 5.000, chaser, beater
-MireilleKlaver, female, 5.000, chaser, beater
-PaigeSweluk, female, 3.000, chaser, beater
-ThomasOtsig, male, 2.000, chaser, beater
-JaneArnett, female, 1.000, chaser, beater
-MeganHirst, female, 1.000, chaser, beater
-MichelleFerguson, female, 1.000, chaser, beater
+anthony hawkins, male, 12.000, chaser, beater, 7.0, Gambits
+princeton nguyen, male, 12.000, chaser, beater, 5.0, Lost Boys
+michael aguilera, male, 12.000, chaser, beater, 6.0, none
+celia evans, female, 12.000, chaser, beater, 4.0, Diablos
+lindsey simpson, female, 12.000, chaser, beater, 5.0, Lost Boys QC
+emily hickmott, female, 11.000, chaser, beater, 7.0, Heeeee
+jenny yu, female, 11.000, chaser, beater, 6.0, rip
+dana dixon, non-binary, 11.000, chaser, beater, 2.0, UCLA
+fraser posford, male, 10.000, chaser, beater, 5.0, Manchester Manticores (UK)
+badal chandra, male, 9.000, chaser, beater, 6.0, Diablos QC
+jacob ellis, male, 9.000, chaser, beater, 6.0, Big Duck Energy
+thach diep, male, 9.000, chaser, beater, 2.0, FQ
+carl ferrer, male, 9.000, chaser, beater, 4.0, LBFQ
+hannah moroz, female, 9.000, chaser, beater, 8.0, LBFQ
+jordin morrill, female, 9.000, chaser, beater, 2.0, LBFQ
+robert souders, male, 9.000, keeper, beater, 2.0, Fq
+miguel villa, male, 9.000, seeker, beater, 4.0, LBFQ
+fredy ramirez cornejo, male, 7.000, chaser, beater, 4.0, Bay Area Breakers
+marisol beck, non-binary, 7.000, chaser, beater, 1.0, LBFQ
+tommy morgan, male, 6.000, chaser, beater, 4.0, Werewolves of London
+rocio salas, female, 5.000, chaser, beater, 8.0, Breakers
+amanda bortner, female, 0.000, chaser, beater, 3.0, lbfq
 Chasers
 primary
-JessicaArthur, female, 6.000, chaser, keeper
-TravisWoodward, male, 5.000, chaser, beater
-ErinCarter, female, 5.000, chaser, beater
-SarahIrvine, nonbinary, 5.000, chaser, none
-MireilleKlaver, female, 5.000, chaser, beater
-MishaWhittingham, male, 5.000, chaser, keeper
-KessaBeddington, female, 4.000, chaser, none
-EmilyMacVicar, female, 4.000, chaser, none
-RobertSzustakowski, male, 4.000, chaser, none
-SteveS, male, 3.000, chaser, seeker
-LindseySimpson, female, 3.000, chaser, seeker
-HannahBrunsdon, female, 3.000, chaser, seeker
-JakeBranchaud, male, 3.000, chaser, keeper
-PaigeSweluk, female, 3.000, chaser, beater
-BrianGallaway, male, 2.000, chaser, keeper
-JamesChaulk, male, 2.000, chaser, seeker
-KatharinaHirsch, female, 2.000, chaser, seeker
-LaurenKruger, female, 2.000, chaser, seeker
-ErinScott, female, 2.000, chaser, seeker
-BrookeDavis, female, 2.000, chaser, keeper
-KimiaFonounialasl, female, 2.000, chaser, seeker
-GordieBishop, male, 2.000, chaser, seeker
-Pearse the GreatMckinney, male, 2.000, chaser, seeker
-EmilyBeckley, female, 2.000, chaser, seeker
-ThomasOtsig, male, 2.000, chaser, beater
-NicoleMcLellan, female, 2.000, chaser, none
-CynthiaChao, female, 2.000, chaser, none
-ParvathiNair, female, 2.000, chaser, seeker
-JennaWhitby, nonbinary, 2.000, chaser, seeker
-KristinHodge, female, 2.000, chaser, none
-IndianaNikel, male, 1.000, chaser, seeker
-JaneArnett, female, 1.000, chaser, beater
-SoleilHeaney, female, 1.000, chaser, seeker
-MeganHirst, female, 1.000, chaser, beater
-MichelleFerguson, female, 1.000, chaser, beater
+anthony hawkins, male, 12.000, chaser, beater, 7.0, Gambits
+princeton nguyen, male, 12.000, chaser, beater, 5.0, Lost Boys
+michael aguilera, male, 12.000, chaser, beater, 6.0, none
+joe malach, male, 12.000, chaser, keeper, 2.0, Rain City Raptors
+shea hillinger, male, 12.000, chaser, none, 4.0, You know
+tori kaiser, female, 12.000, chaser, seeker, 5.0, Diablos
+kimberly megan cheng, female, 12.000, chaser, none, 5.0, dare il gambetto (to put a leg forward in order to trip someone)
+celia evans, female, 12.000, chaser, beater, 4.0, Diablos
+liz allendorf, female, 12.000, chaser, none, 6.0, Diablos
+lindsey simpson, female, 12.000, chaser, beater, 5.0, Lost Boys QC
+emily hickmott, female, 11.000, chaser, beater, 7.0, Heeeee
+cornelia tzana, female, 11.000, chaser, none, 3.0, Lost Boys
+jenny yu, female, 11.000, chaser, beater, 6.0, rip
+dana dixon, non-binary, 11.000, chaser, beater, 2.0, UCLA
+kendrick ushera-surrell, male, 10.000, chaser, seeker, 4.0, Lost Boys
+fraser posford, male, 10.000, chaser, beater, 5.0, Manchester Manticores (UK)
+kai kendall, male, 10.000, chaser, keeper, 1.0, Not sure
+keo elgarico, non-binary, 10.000, chaser, keeper, 1.0, SJSU
+martha connolly, female, 10.000, chaser, seeker, 6.0, Lost bois
+badal chandra, male, 9.000, chaser, beater, 6.0, Diablos QC
+jacob ellis, male, 9.000, chaser, beater, 6.0, Big Duck Energy
+thach diep, male, 9.000, chaser, beater, 2.0, FQ
+carl ferrer, male, 9.000, chaser, beater, 4.0, LBFQ
+anthony (tony) lopez, male, 9.000, chaser, seeker, 1.0, Spartan (SJSU) Quidditch
+hannah moroz, female, 9.000, chaser, beater, 8.0, LBFQ
+jordin morrill, female, 9.000, chaser, beater, 2.0, LBFQ
+doruk yurdayar, male, 8.000, chaser, seeker, 2.0, Lost Boys
+julia asher, female, 8.000, chaser, none, 2.0, Anteater Quidditch
+fredy ramirez cornejo, male, 7.000, chaser, beater, 4.0, Bay Area Breakers
+marisol beck, non-binary, 7.000, chaser, beater, 1.0, LBFQ
+tommy morgan, male, 6.000, chaser, beater, 4.0, Werewolves of London
+luz gutierrez, female, 6.000, chaser, seeker, 6.0, The Lost Boys
+caroline livingston, female, 6.000, chaser, none, 1.0, SDQ
+rocio salas, female, 5.000, chaser, beater, 8.0, Breakers
+anna ishizaki, female, 4.000, chaser, none, 2.0, Noop
+janice smith, female, 3.000, chaser, seeker, 0.0, Wizards of Westwood
+dasha (legal name: daria) sidenko, non-binary, 3.000, chaser, seeker, 2.0, Was on Wizards of Westwood for 2 years but graduated in June so no longer affiliated with any team as of right now
+amanda bortner, female, 0.000, chaser, beater, 3.0, lbfq
 secondary
-AnthonyTabacchi, male, 10.000, beater, chaser
-HannahSchriber, female, 9.000, beater, chaser
-GeorgeWilliams, male, 7.000, keeper, chaser
-KarelinVictor-Kinzel, nonbinary, 5.000, seeker, chaser
-HeidiMills, nonbinary, 5.000, beater, chaser
-AdamGulyas, male, 4.000, beater, chaser
-DavidChapman, male, 4.000, beater, chaser
-RyanSmythe, male, 3.000, beater, chaser
-DevinDutt, male, 2.000, beater, chaser
-SamMills, nonbinary, 2.000, beater, chaser
-JessykaSchwandt, female, 2.000, keeper, chaser
-TaylorAttrill, male, 2.000, beater, chaser
-NathanUnrau, male, 1.000, beater, chaser
-AlimIsmail, male, 1.000, keeper, chaser
-NathanRoss, nonbinary, 1.000, beater, chaser
-KatieOlfert, female, 1.000, keeper, chaser
-CaitWoolner, female, 1.000, beater, chaser
-CayleyMendoza, female, 1.000, beater, chaser
+ryan mcgonagle, male, 13.000, beater, chaser, 5.0, Diablos
+grant rose, male, 13.000, keeper, chaser, 6.0, LA Gambits
+simón arends, male, 12.000, beater, chaser, 7.0, Texas
+sam harris, male, 12.000, keeper, chaser, 8.0, Breakers
+willis miles, male, 11.000, beater, chaser, 7.0, bay area breakers
+ricardo missael elizondo olivo, male, 11.000, beater, chaser, 2.0, Breakers
+ricardo arreola, male, 11.000, beater, chaser, 4.0, No one
+jeremy hoffman, non-binary, 11.000, beater, chaser, 5.0, Boom Train
+michael richardson, male, 11.000, keeper, chaser, 5.0, LA Gambits
+ryan harris, male, 11.000, keeper, chaser, 4.0, UCLA
+erin moreno, female, 10.000, beater, chaser, 7.0, ¯\_(ツ)_/¯
+forrest stone, male, 10.000, seeker, chaser, 7.0, Bay Area Breakers
+luis martinez, male, 9.000, beater, chaser, 4.0, None
+nate western, male, 9.000, keeper, chaser, 0.0, None
+christopher dewing, male, 8.000, keeper, chaser, 4.0, Vipers
+mikey saugstad, male, 7.000, beater, chaser, 6.0, Funky Quaffles
+matthew suey, male, 7.000, beater, chaser, 4.0, Lbfq
+daniel belton, male, 7.000, beater, chaser, 1.0, Anteater Quidditch
+dani clarke, female, 7.000, beater, chaser, 4.0, Diablos QC
+lorena medrano osorio, female, 7.000, beater, chaser, 4.0, Bay Area Breakers
+michelle coen, female, 7.000, beater, chaser, 3.0, ASU
+marc capitulo, male, 7.000, keeper, chaser, 1.0, The Lost Boys
+tessa mullins, female, 6.000, beater, chaser, 1.0, Emerson College Quidditch
+ema shiroma-chao, female, 6.000, beater, chaser, 10.0, Université de Montréal / Team Canada / mercenary
+zachary little, non-binary, 6.000, keeper, chaser, 7.0, Mission Tropics, Lost Boys, University of Oklahoma
+michael dittmer, male, 5.000, beater, chaser, 2.0, CA Dobby
+alberto santillán, non-binary, 5.000, beater, chaser, 8.0, Qwertyrians Tijuana
 Keepers
 primary
-GeorgeWilliams, male, 7.000, keeper, chaser
-GeoffreyPedder, male, 3.000, keeper, none
-JessykaSchwandt, female, 2.000, keeper, chaser
-WyattVerchere, male, 1.000, keeper, seeker
-SohelShivji, male, 1.000, keeper, seeker
-AlimIsmail, male, 1.000, keeper, chaser
-KatieOlfert, female, 1.000, keeper, chaser
-AustinWallace, male, 1.000, keeper, seeker
+grant rose, male, 13.000, keeper, chaser, 6.0, LA Gambits
+sam harris, male, 12.000, keeper, chaser, 8.0, Breakers
+michael richardson, male, 11.000, keeper, chaser, 5.0, LA Gambits
+dylan bryant, male, 11.000, keeper, seeker, 4.0, Diablos
+ryan harris, male, 11.000, keeper, chaser, 4.0, UCLA
+nate western, male, 9.000, keeper, chaser, 0.0, None
+robert souders, male, 9.000, keeper, beater, 2.0, Fq
+christopher dewing, male, 8.000, keeper, chaser, 4.0, Vipers
+marc capitulo, male, 7.000, keeper, chaser, 1.0, The Lost Boys
+zachary little, non-binary, 6.000, keeper, chaser, 7.0, Mission Tropics, Lost Boys, University of Oklahoma
 secondary
-JessicaArthur, female, 6.000, chaser, keeper
-MishaWhittingham, male, 5.000, chaser, keeper
-AlexLamoureux, male, 4.000, beater, keeper
-JakeBranchaud, male, 3.000, chaser, keeper
-BrianGallaway, male, 2.000, chaser, keeper
-BrookeDavis, female, 2.000, chaser, keeper
+joe malach, male, 12.000, chaser, keeper, 2.0, Rain City Raptors
+amani burton, male, 10.000, beater, keeper, 4.0, Diablos
+kai kendall, male, 10.000, chaser, keeper, 1.0, Not sure
+keo elgarico, non-binary, 10.000, chaser, keeper, 1.0, SJSU
 Seekers
 primary
-KarelinVictor-Kinzel, nonbinary, 5.000, seeker, chaser
+forrest stone, male, 10.000, seeker, chaser, 7.0, Bay Area Breakers
+miguel villa, male, 9.000, seeker, beater, 4.0, LBFQ
 secondary
-SteveS, male, 3.000, chaser, seeker
-LindseySimpson, female, 3.000, chaser, seeker
-HannahBrunsdon, female, 3.000, chaser, seeker
-JamesChaulk, male, 2.000, chaser, seeker
-KatharinaHirsch, female, 2.000, chaser, seeker
-LaurenKruger, female, 2.000, chaser, seeker
-ErinScott, female, 2.000, chaser, seeker
-KimiaFonounialasl, female, 2.000, chaser, seeker
-GordieBishop, male, 2.000, chaser, seeker
-Pearse the GreatMckinney, male, 2.000, chaser, seeker
-EmilyBeckley, female, 2.000, chaser, seeker
-ParvathiNair, female, 2.000, chaser, seeker
-JennaWhitby, nonbinary, 2.000, chaser, seeker
-WyattVerchere, male, 1.000, keeper, seeker
-IndianaNikel, male, 1.000, chaser, seeker
-SohelShivji, male, 1.000, keeper, seeker
-JennyJohnson, female, 1.000, beater, seeker
-SoleilHeaney, female, 1.000, chaser, seeker
-AustinWallace, male, 1.000, keeper, seeker
+kobe kendall, male, 14.000, beater, seeker, 2.0, Anteater Quidditch
+duc tran, male, 13.000, beater, seeker, 4.0, Long Lost Beach Boys
+tori kaiser, female, 12.000, chaser, seeker, 5.0, Diablos
+dylan bryant, male, 11.000, keeper, seeker, 4.0, Diablos
+kendrick ushera-surrell, male, 10.000, chaser, seeker, 4.0, Lost Boys
+martha connolly, female, 10.000, chaser, seeker, 6.0, Lost bois
+anthony (tony) lopez, male, 9.000, chaser, seeker, 1.0, Spartan (SJSU) Quidditch
+doruk yurdayar, male, 8.000, chaser, seeker, 2.0, Lost Boys
+kristen williams, female, 6.000, beater, seeker, 2.0, LBFQ
+luz gutierrez, female, 6.000, chaser, seeker, 6.0, The Lost Boys
+janice smith, female, 3.000, chaser, seeker, 0.0, Wizards of Westwood
+dasha (legal name: daria) sidenko, non-binary, 3.000, chaser, seeker, 2.0, Was on Wizards of Westwood for 2 years but graduated in June so no longer affiliated with any team as of right now
+silver chacón, non-binary, 0.000, beater, seeker, 3.0, Tijuana Qwertyrians
